@@ -2,7 +2,7 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDh4_D-KjP504KAs3ezhZnLXr40bjApVE0",
+    apiKey: "USE YOUR OWN",
     authDomain: "tinder-clone-53e3b.firebaseapp.com",
     projectId: "tinder-clone-53e3b",
     storageBucket: "tinder-clone-53e3b.appspot.com",
