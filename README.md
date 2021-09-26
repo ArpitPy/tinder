@@ -11,5 +11,5 @@
 ### 5. Run `npm start`
 ### 6. Your app is ready to go!
 ## Screenshots:
-![Mobile](https://1.bp.blogspot.com/-vVnqbNxtZak/YUy4cDJF-UI/AAAAAAAAANs/JpQLWMltTEsb07IcKgRIK2K32TIe6PNJQCLcBGAsYHQ/s16000/a.png)
-![Mobile](https://1.bp.blogspot.com/-PsYeFn8FxIo/YUy4b_4DSWI/AAAAAAAAANo/VfuHDi27cgIgp5HrlDNphoFt0kISfQoAACLcBGAsYHQ/s16000/b.png)
+![Mobile](https://1.bp.blogspot.com/-vVnqbNxtZak/YUy4cDJF-UI/AAAAAAAAANs/JpQLWMltTEsb07IcKgRIK2K32TIe6PNJQCLcBGAsYHQ/w224-h320/a.png)
+![Mobile](https://1.bp.blogspot.com/-PsYeFn8FxIo/YUy4b_4DSWI/AAAAAAAAANo/VfuHDi27cgIgp5HrlDNphoFt0kISfQoAACLcBGAsYHQ/w279-h400/b.png)
